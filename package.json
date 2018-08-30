@@ -4,6 +4,7 @@
   "description": "Taller número 2 para la asignatura Aplicaciones Sobre Internet - La Nube. En este taller se propone crear un microservicio para uno de los tantos que existen en el sistema Transmilenio. Nuestro grupo decidió realizar el Microservicio “Consultar Tarjeta”.",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

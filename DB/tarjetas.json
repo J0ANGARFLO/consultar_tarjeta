@@ -1,0 +1,40 @@
+{
+  "tarjetas": [
+    {
+      "ObjID": 1,
+      "propietario": "Geraldin Sanabria",
+      "saldoFavor": 20000,
+      "saldoContra": 0,
+      "ultimaRecarga": {
+        "valor": 10000,
+        "lugar": "CAN",
+        "fecha": "15-08-2018",
+        "hora": "17:30:53:400"
+      }
+    },
+    {
+      "ObjID": 2,
+      "propietario": "Edwin Rincon",
+      "saldoFavor": 8000,
+      "saldoContra": 0,
+      "ultimaRecarga": {
+        "valor": 15000,
+        "lugar": "Virrey",
+        "fecha": "19-08-2018",
+        "hora": "13:15:53:400"
+      }
+    },
+    {
+      "ObjID": 3,
+      "propietario": "José García",
+      "saldoFavor": 0,
+      "saldoContra": 900,
+      "ultimaRecarga": {
+        "valor": 5000,
+        "lugar": "Portal de la 80",
+        "fecha": "18-08-2018",
+        "hora": "10:30:53:400"
+      }
+    }
+  ]
+}
