@@ -1,0 +1,18 @@
+1) npm init
+2) Diligenciar los campos
+
+// Framework para la comunicación cliente servidor (Muchas otras características)
+// https://www.npmjs.com/package/express
+// -S (--save) agrega la librería a dependencies (Librería necesaria para que funcione la aplicación).
+// Al momento de ejecutar un npm install, descargara todas las librerías que estén en dependencies
+3) npm i express -S
+
+// Permite parsear / dar formato al cuerpo de las peticiones REST
+// https://www.npmjs.com/package/body-parser
+4) npm i body-parser -S
+
+// Reinicia el servidor cada que se realice un cambio en el código - Agiliza el desarrollo
+// https://www.npmjs.com/package/nodemon
+// -D (--save-dev) agrega la librería a devDependencies (Librería que solo es necesaria en entorno de desarrollo)
+// Uso: En el archivo package.json => "scripts", se agrega => "start": "nodemon index.js" (Ver Documentación)
+5) npm i -D nodemon
