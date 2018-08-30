@@ -1,0 +1,25 @@
+{
+  "name": "consultar_tarjeta",
+  "version": "1.0.0",
+  "description": "Taller número 2 para la asignatura Aplicaciones Sobre Internet - La Nube. En este taller se propone crear un microservicio para uno de los tantos que existen en el sistema Transmilenio. Nuestro grupo decidió realizar el Microservicio “Consultar Tarjeta”.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J0ANGARFLO/consultar_tarjeta.git"
+  },
+  "keywords": [
+    "Microservicio",
+    "Servicio",
+    "Transmilenio",
+    "Nube"
+  ],
+  "author": "José Andrés García Flórez joagaflo@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/J0ANGARFLO/consultar_tarjeta/issues"
+  },
+  "homepage": "https://github.com/J0ANGARFLO/consultar_tarjeta#readme"
+}
